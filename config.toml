@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "https://blog-g9rorqzv3-aristohack.vercel.app/"
 title = "johndoe"
 theme = "hugo-coder"
 languageCode = "en"
